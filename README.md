@@ -33,3 +33,25 @@ Misalnya, seseorang pemain dapat membuka _chest_ ataupun _lottery_ yang memiliki
 Dengan menggunakan PRD, walaupun kemungkinan seorang pemain mendapatkan _drop item_ ataupun peluang untuk melakukan _doublestrike_ atau efek _skill_ lain _hero_ pemain tersebut kecil, namun sudah dipastikan bahwa pemain akan mendapatkan _item_ atau efek _skill_ yang diinginkan tersebut (walaupun butuh beberapa kali dicoba). Tentunya hal ini akan mengurangi kefrustasian pemain dalam bermain _game_ tersebut.
 
 Selain itu, pada tempat permainan _arcade_, banyak ditemukan permainan-permainan yang kelihatannya membutuhkan keahlian khusus atau bahkan tingkat keuntungan yang tinggi layaknya permainan _jackpot_, _monster drop_, dan sebagainya. Namun, tak jarang bahwa _developer_ permainan tersebut menyetel permainannya agar hanya bisa dimenangkan (menang _jackpot_ atau hadiah besar) hanya sekali dalam beberapa puluh kali atau bahkan ratus kali kesempatan. Salah satunya adalah permainan _Cyclone_, dimana pada permainan tersebut seorang pemain harus menekan tombol ketika lampu yang berjalan berkedip tepat di antara dua lampu besar dihadapannya. Walaupun sang pemain telah menekan tombol pada saat yang tepat, bila pada saat itu jumlah permainan yang telah dimainkan belum memenuhi, maka lampu tetap akan berhenti di dekat _checkpoint_ namun tidak pernah pas pada _checkpoint_ tersebut (untuk lebih lengkap, dapat dilihat pada pranala berikut: [https://youtu.be/vXBfwgwT1nQ](https://youtu.be/vXBfwgwT1nQ)). Hal ini tentunya akan membuat pemain permainan _arcade_ menjadi _ogah-ogahan_ dan lebih memilih permainan lain yang dirasa lebih memuaskan. Bila diterapkan PRD pada permainan ini, tentunya permainan ini akan terasa lebih _fair_ untuk pemain dan juga tidak akan menimbulkan kerugian yang banyak pada _developer_ permainan tersebut, karena pihak pemain merasa bahwa ia memiliki kesempatan untuk menang dalam permainan ini dan pihak _developer_ juga memperoleh rasa kepercayaan dari pemain dan masih mendapatkan _profit_ dari permainan ini.
+
+Referensi:
+
+[https://dota2.gamepedia.com/Random\_distribution](https://dota2.gamepedia.com/Random_distribution)
+
+[https://www.dotabuff.com/blog/2016-01-03-pseudorandom-mechanics--and-how-to-use-them-to-your-advantage](https://www.dotabuff.com/blog/2016-01-03-pseudorandom-mechanics--and-how-to-use-them-to-your-advantage)
+
+[https://liquipedia.net/dota2/Pseudo\_Random\_Distribution](https://liquipedia.net/dota2/Pseudo_Random_Distribution)
+
+[https://gaming.stackexchange.com/questions/161430/calculating-the-constant-c-in-dota-2-pseudo-random-distribution](https://gaming.stackexchange.com/questions/161430/calculating-the-constant-c-in-dota-2-pseudo-random-distribution)
+
+[https://www.reddit.com/r/DotA2/comments/7bj2ij/pseudo\_random\_in\_dota\_revisited/](https://www.reddit.com/r/DotA2/comments/7bj2ij/pseudo_random_in_dota_revisited/)
+
+[https://youtu.be/vXBfwgwT1nQ](https://youtu.be/vXBfwgwT1nQ)
+
+[http://www.tetrisfriends.com](http://www.tetrisfriends.com)
+
+Pembagian tugas:
+
+Cornel: Membuat definisi, penjelasan dan cara kerja PRD
+
+Ellen: Membuat pendahuluan, penggunaan PRD, dan _publish_ di GitHub Pages
